@@ -8,7 +8,7 @@
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-090D16?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/Yashbanda18052003)
 &nbsp;&nbsp;
-[![Featured Projects](https://img.shields.io/badge/Flagship_Projects-0284C7?style=for-the-badge&logo=blueprint&logoColor=white)](#-flagship-projects)
+[![Status](https://img.shields.io/badge/Status-Open_To_Work-0284C7?style=for-the-badge)](https://www.linkedin.com/in/yash-banda-829633259/)
 
 </div>
 
