@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header_banner.png" alt="Yash Banda - Full Stack Software Engineer" width="100%"/>
+<img src="profile_banner.png" alt="Yash Banda - Full Stack Software Engineer" width="100%"/>
 
 <br/><br/>
 
