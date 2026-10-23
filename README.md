@@ -1,19 +1,14 @@
 <div align="center">
 
-# ⚡ Yash Banda
-### Full-Stack Software Engineer • Python | Flask | Laravel 11 | AI/ML 🚀
-
-<a href="https://github.com/Yashbanda18052003">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;Python+(Flask)+%26+Laravel+11+Architect;Building+Production-Grade+AI+%26+Web+Applications;Crafting+Responsive%2C+High-Performance+UIs" alt="Typing Header" />
-</a>
+<img src="header_banner.png" alt="Yash Banda - Full Stack Software Engineer" width="100%"/>
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-banda-829633259/)
-&nbsp;
+&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-090D16?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/Yashbanda18052003)
-&nbsp;
-[![Status](https://img.shields.io/badge/Status-Open%20To%20Work-0284C7?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/yash-banda-829633259/)
+&nbsp;&nbsp;
+[![Featured Projects](https://img.shields.io/badge/Flagship_Projects-0284C7?style=for-the-badge&logo=blueprint&logoColor=white)](#-flagship-projects)
 
 </div>
 
