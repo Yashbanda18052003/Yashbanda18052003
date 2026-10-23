@@ -17,9 +17,9 @@
 ### 🌐 Quick Overview
 
 - 🚀 **Full-Stack Engineering:** Specialized in building robust, performant web platforms with **Python (Flask)** and **PHP (Laravel 11)**.
-- 🧠 **Applied Intelligence:** Hands-on experience developing voice-powered AI interview systems, NLP task parsers, and machine learning recommendation engines.
-- 🎨 **Modern Interface Design:** Focused on clean UI/UX, responsive layouts, intuitive workflows, and high-performance dark themes.
-- 🛠️ **Engineering Rigor:** Clean MVC architecture, comprehensive documentation, secure role-based access control (RBAC), and relational database modeling.
+- ⚡ **Backend & API Architecture:** Designing scalable RESTful APIs, relational schemas, authentication workflows, and service integrations.
+- 🎨 **Modern Interface Design:** Building responsive web interfaces, interactive dashboards, and seamless user experiences.
+- 🛠️ **Engineering Rigor:** Clean MVC architecture, comprehensive documentation, secure role-based access control (RBAC), and maintainable codebases.
 
 ---
 
@@ -53,12 +53,12 @@
       <h4>⚡ <a href="https://github.com/Yashbanda18052003/schedule-manager-web-app">PlanPulse AI</a></h4>
       <p><em>AI-Powered Schedule & Productivity Management Platform</em></p>
       <ul>
-        <li>Natural Language Task Parser extracting dates, times & priorities</li>
+        <li>Intelligent Task Parser extracting dates, times & priorities</li>
         <li>Interactive full-page FullCalendar with drag-and-drop rescheduling</li>
         <li>Automated conflict detection engine & daily productivity analytics</li>
         <li>Background SMTP email alerts for upcoming deadlines</li>
       </ul>
-      <p><code>Python</code> • <code>Flask</code> • <code>NLP</code> • <code>FullCalendar</code> • <code>Chart.js</code> • <code>SQLite</code></p>
+      <p><code>Python</code> • <code>Flask</code> • <code>Automation</code> • <code>FullCalendar</code> • <code>Chart.js</code> • <code>SQLite</code></p>
     </td>
     <td width="50%" valign="top">
       <h4>💼 <a href="https://github.com/Yashbanda18052003/job-portal">Job Portal & AI Mock Interview</a></h4>
