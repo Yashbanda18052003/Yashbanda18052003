@@ -1,20 +1,19 @@
 <div align="center">
 
-<!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,18,24&height=220&section=header&text=Hi%20there,%20I'm%20Yash%20Banda%20👋&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Python%20%7C%20Flask%20%7C%20Laravel%20%7C%20AI%20%26%20ML&descAlignY=62&descAlign=50" width="100%"/>
+# 👨‍💻 Yash Banda
+### Full-Stack Software Engineer • Python | Flask | Laravel 11 | AI & ML 🚀
 
-<!-- Typing Animation -->
 <a href="https://github.com/Yashbanda18052003">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;Building+Production-Ready+Python+(Flask)+%26+Laravel+Apps;Implementing+Machine+Learning+%26+Intelligent+Workflows;Designing+Modern%2C+High-Converting+Dark-Mode+UIs" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;Building+Production-Ready+Python+(Flask)+%26+Laravel+Apps;Implementing+Machine+Learning+%26+Intelligent+Workflows;Designing+Modern%2C+High-Converting+Dark-Mode+UIs" alt="Typing Header" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Social Connect Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-banda-829633259/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yashbanda18052003)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Available-orange?style=for-the-badge&logo=googlechrome&logoColor=white)](#-featured-projects)
-[![Status](https://img.shields.io/badge/Open%20To%20Work-Available-brightgreen?style=for-the-badge)](https://www.linkedin.com/in/yash-banda-829633259/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-banda-829633259/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yashbanda18052003)
+&nbsp;
+[![Status](https://img.shields.io/badge/Status-Open%20To%20Work-brightgreen?style=for-the-badge)](https://www.linkedin.com/in/yash-banda-829633259/)
 
 </div>
 
@@ -167,7 +166,5 @@ I'm always eager to collaborate on ambitious projects, discuss new opportunities
 <br/>
 
 *“First, solve the problem. Then, write the code.”* — John Johnson
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,18,24&height=100&section=footer" width="100%"/>
 
 </div>
